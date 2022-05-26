@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IjMXYCMmJJlEyriaUPK+NN5+cf3VlLccwFg5p8OmByMrAYeccsuvmgeVr7ONq60l4fVp0VFsnszRSIuiSC2vcw==",
+  "dgSpecHash": "9g/r0KbVMveHeXDJgovMHCiEzcKROjD0OkDqHRjoE1UokUAllvkwrPWHavyPJa89iI/8hVyEJ4xfDpWP2J7tlw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Api\\ShopOnline.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.4.22229.2\\microsoft.entityframeworkcore.7.0.0-preview.4.22229.2.nupkg.sha512",

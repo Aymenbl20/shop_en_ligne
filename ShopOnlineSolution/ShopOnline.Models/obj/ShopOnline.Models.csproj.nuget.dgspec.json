@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {}
+    "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\shop_en_ligne\\ShopOnlineSolution\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
